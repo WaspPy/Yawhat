@@ -1,0 +1,18 @@
+2022-09-20 16:58:41,585 - DEBUG - La fonction a bien été exécutée
+2022-09-20 16:58:41,585 - INFO - Message d'information général
+2022-09-20 16:58:41,585 - WARNING - Attention !
+2022-09-20 16:58:41,585 - ERROR - Une erreur est arrivée
+2022-09-20 16:58:41,585 - CRITICAL - Erreur critique
+2022-09-20 16:58:41,587 - DEBUG - Starting new HTTPS connection (1): www.yammer.com:443
+2022-09-20 16:58:43,076 - DEBUG - https://www.yammer.com:443 "GET /api/v1/messages/in_group/117272174592.json?newer_than=1914656329621504 HTTP/1.1" 200 None
+2022-09-20 16:58:43,079 - DEBUG - Starting new HTTPS connection (1): www.yammer.com:443
+2022-09-20 16:58:43,475 - DEBUG - https://www.yammer.com:443 "GET /api/v1/users/1236544413696.json HTTP/1.1" 200 None
+2022-09-20 16:58:43,479 - DEBUG - Starting new HTTPS connection (1): www.yammer.com:443
+2022-09-20 16:58:43,828 - DEBUG - https://www.yammer.com:443 "GET /api/v1/uploaded_files/1452270673920/download HTTP/1.1" 307 None
+2022-09-20 16:58:43,830 - DEBUG - Starting new HTTPS connection (1): files.yammerusercontent.com:443
+2022-09-20 16:59:37,741 - DEBUG - La fonction a bien été exécutée
+2022-09-20 16:59:37,741 - INFO - Message d'information général
+2022-09-20 16:59:37,741 - WARNING - Attention !
+2022-09-20 16:59:37,741 - ERROR - Une erreur est arrivée
+2022-09-20 16:59:37,741 - CRITICAL - Erreur critique
+2022-09-20 16:59:37,743 - DEBUG - Starting new HTTPS connection (1): www.yammer.com:443
